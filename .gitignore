@@ -1,0 +1,17 @@
+.DS_STORE
+*.log
+*.orig
+.happypack
+node_modules
+dist
+distServer
+coverage
+.idea/
+.vscode/
+dump.rdb
+.env
+.babelCache
+.next
+public
+scripts/perf/logs
+scripts/perf/errors
